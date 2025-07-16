@@ -5,7 +5,7 @@ This project explores the integration of a photoresistor (LDR) with an Arduino U
 
 ---
 
-## 🔧 Components Used
+##  Components Used
 
 - Arduino Uno  
 - Breadboard  
@@ -47,5 +47,7 @@ The LDR is configured in a voltage divider circuit to provide analog input to th
 ##  Applications
 
 This system can be extended to real-world applications such as automatic lighting, energy-saving systems, or smart home integration. It also serves as a practical introduction to analog sensor interfacing and conditional control logic in embedded systems.
+
+⭐ Created by Alyaa
 
 
